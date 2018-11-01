@@ -8,6 +8,12 @@ You may be familiar with GitHub as a source of software, scripts, and programs. 
 * you can create a simple webpage with a few clicks through GitHub?
 * you don’t need any knowledge of the command-line version control tool ‘git’ to do all this?
 
+Also:
+
+* Many researchers and developers in Digital Humanities put their code and projects on GitHub – or its sister GitLab. Currently, there are >220 [repositories](https://github.com/topics/digital-humanities) listed under the topic digital-humanities.
+* You can find many useful – or just fun – projects here; e.g. for creating your personal website without having the hassle of finding a webhosting service and for no hosting cost [academicpages](https://github.com/academicpages/academicpages.github.io), or for making interactive presentations [reveal.js](https://github.com/hakimel/reveal.js/).
+* You can also use GitHub for managing your projects!
+
 This course will teach you how to do all these things, and more. The course is aimed at graduate students and other researchers, and tailored towards those with very little to no experience in the subjects taught. Experience with git or GitHub or similar programs/services is not necessary, but it doesn’t hurt either.
 
 NB time permitting, at the end the workshop, those interested can learn how to do the same operations using command line ‘git'.
@@ -142,4 +148,3 @@ NB time permitting, at the end the workshop, those interested can learn how to d
 
 * Co-instructor is number 2
 * Laptop switching between them, make second laptop look different
-* 
