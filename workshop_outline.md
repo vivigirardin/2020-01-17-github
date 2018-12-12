@@ -6,7 +6,7 @@ You may be familiar with GitHub as a source of software, scripts, and programs. 
 * GitHub can also be used to work on text documents?
 * GitHub enables collaboration on documents and software entirely through the web interface?
 * you can create a simple webpage with a few clicks through GitHub?
-* you don’t need any knowledge of the command-line version control tool ‘git’ to do all this?
+* you don’t need any knowledge of the command-line version control tool `git` to do all this?
 
 Also:
 
@@ -14,17 +14,17 @@ Also:
 * You can find many useful – or just fun – projects here; e.g. for creating your personal website without having the hassle of finding a webhosting service and for no hosting cost [academicpages](https://github.com/academicpages/academicpages.github.io), or for making interactive presentations [reveal.js](https://github.com/hakimel/reveal.js/).
 * You can also use GitHub for managing your projects!
 
-This course will teach you how to do all these things, and more. The course is aimed at graduate students and other researchers, and tailored towards those with very little to no experience in the subjects taught. Experience with git or GitHub or similar programs/services is not necessary, but it doesn’t hurt either.
+This course will teach you how to do these things, and more. The course is aimed at researchers and tailored towards those with very little to no experience in the subjects taught. Experience with git or GitHub or similar programs/services is not necessary, but it doesn’t hurt either.
 
-NB time permitting, at the end the workshop, those interested can learn how to do the same operations using command line ‘git'.
+NB time permitting, at the end the workshop, those interested can learn how to do the same operations using command line `git`.
 
 -------------
 
 ## Set up a repository
 
 * get GitHub account
-* make repository called "Guacamole recipe"* 
-* IMPORTANT! In the same step, add a 'Readme' file
+* make repository called "Guacamole recipe" 
+* IMPORTANT! In the same step, add a 'README.md' file
 	* explain commit, commit message
 
 ## Add more files
@@ -43,27 +43,33 @@ NB time permitting, at the end the workshop, those interested can learn how to d
 
 ## Collaborate directly
 
-* Divide into pairs, 
+* Divide into pairs 
 	* \#1 repo will be used
 	* \#2 close the window with their repo
 	* \#1 add #2 as collaborator
 	* \#2 checks email and accepts invitation
+	
 * \#2 make a change to repo
 	* add `and mix well` to `instructions.txt`
 	* \#1 add comment to commit
 	* \#2 respond to comment
+	
 * \#1 convert `ingredients.txt` to `ingredients.md`
 	* quick intro markdown
 	* convert into markdown list
 	* add `* salt`
 	* look at rendered version
+	
 * explain issues and pull request principles
+
 * \#1 submit an issue
 	* "We need to convert `instructions.txt` to `instructions.md`"
 	* \#2 check email
+	
 * \#2 submit an unrelated issue
 	* "Add 'lime' as ingredient"
 	* \#1 check email
+	
 * \#2 prepare a pull request to address issue #1
 	* make branch
 	* make changes
@@ -71,14 +77,19 @@ NB time permitting, at the end the workshop, those interested can learn how to d
 	* submit pull request
 	* add link to issue in PR
 	* \#1 check email
+	
 * \#2 prepare a pull request to address issue #2
 	* this time, do not start from a new branch
 	* instead, commit to new branch when finished
 	* also include a typo in the change (!)
+	
 * \#1 add comment to PR, 'fix typo!'
 	* \#2 check email
+	
 * \#2 fix typo, thus adding a commit to the PR
+
 * \#1 merge PR
+
 * Exercise: do another cycle of an issue by one, and a PR by the other, include comments and merge PR
 
 ## Prevent conflicts
@@ -86,10 +97,13 @@ NB time permitting, at the end the workshop, those interested can learn how to d
 * \#2 create branch with change
 	* call branch collab
 	* wait with the PR
+	
 * \#1 commit change on same line in same file in master (!) branch
+
 * \#2 submit PR --> conflict
 	* \#1 & \#2 communicate through 'code review'
 	* \#1 resolve
+	
 * \#1 merge PR
 
 ## Collaborate by 'suggesting' changes
@@ -124,22 +138,22 @@ NB time permitting, at the end the workshop, those interested can learn how to d
 * issues and pull request, conversation
 * e.g. <https://github.com/swcarpentry/make-novice/pull/43>
 
-## building a simple website using github
+## Building a simple website using GitHub
 
 * back to Guacamole repo
-* add index.md with a few lines of text
+* add `index.md` with a few lines of text
 * on the 'Settings' tab of the github repo, enable find "Select a source below to enable GitHub Pages for this repository" and select 'master branch' from the pulldown
 * find your webpage
 * in `index.md`, add (markdown) links to `ingredients` and `instructions`
 * Exercise: customise your recipe website
 
-## another demo: Carpentry@UiO webste
-* https://uio-carpentry.github.io/
-* based from https://github.com/uio-carpentry/uio-carpentry.github.io
+## Another demo: Norwegian Correspondences project website
+
+* <https://arockenberger.github.io/NorKorr/>
 
 ## Example of the final result
 
-<https://lexnederbragt.github.io/guacamole_recipe_demo/>
+<https://arockenberger.github.io/guacamole_oppskrift/>
 
 
 ------
