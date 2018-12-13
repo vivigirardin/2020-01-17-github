@@ -2,8 +2,6 @@
 
 ## About
 
-#github_collab_workshop
-
 Material originally developed by @lexnederbragt for a workshop on "Writing and publishing on the web together using Github".
 
 This workshop has been taught a couple of times now and it has become clear what works well and what could be improved. It is – and will be for some time – still a work in progress.
