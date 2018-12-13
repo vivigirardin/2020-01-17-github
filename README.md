@@ -2,13 +2,13 @@
 
 ## About
 
-Material originally developed by @lexnederbragt for a workshop on "Writing and publishing on the web together using Github".
+Material originally developed by [@lexnederbragt](https://github.com/lexnederbragt) for a workshop on "Writing and publishing on the web together using Github".
 
-This workshop has been taught a couple of times now and it has become clear what works well and what could be improved. It is – and will be for some time – still a work in progress.
+I have taught this workshop a couple of times now and it has become clear what works well and what could be improved. It is still – and will be for some time – a work in progress.
 
-For now, all that is here is an [outline of the workshop](workshop_outline.md). I have the ambition to develop this lesson into a fullblown lesson with screenshots.
+For now, all that is here is an [outline of the workshop](workshop_outline.md). Both Lex and I have the ambition to develop this lesson into a fullblown one, with screenshots etc.
 
-You are welcome to contribute! This call goes out especially to the participants of my workshops – contributing to repositories on GitHub helps you stay 'on track' and getting used to working on GitHub. It's also fun :)
+You are welcome to contribute! This call goes out especially to the participants of my workshops – contributing to repositories on GitHub helps you stay 'on track' and getting comfortable working on GitHub. It's fun, too! :)
 
 ## Workshops
 
