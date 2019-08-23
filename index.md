@@ -41,7 +41,7 @@ We will work with text files only.
 |Time|10am - 3 pm|
 |Venue|Niels Henrik Abels hus, room 209|
 |Address|Moltke Moes vei 39, 0851 Oslo|
-|Register|Sign up [here]()|
+|Register|Sign up [here](https://nettskjema.uio.no/a/122784)|
 
 <!-- ## October Workshop @ Blindern Campus
 |||
