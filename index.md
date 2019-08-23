@@ -35,6 +35,7 @@ We will work with text files only.
 
 ## September Workshop @ Blindern Campus
 
+|||
 |---|---|
 |Date|11th September 2019 (Wednesday)|
 |Time|10am - 3 pm|
@@ -43,6 +44,7 @@ We will work with text files only.
 |Register|Sign up [here]()|
 
 <!-- ## October Workshop @ Blindern Campus
+|||
 |---|---|
 |Date|11th September 2019 (Wednesday)|
 |Time|10am - 3 pm|
