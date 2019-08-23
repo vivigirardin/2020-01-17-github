@@ -36,7 +36,6 @@ We will work with text files only.
 ## September Workshop @ Blindern Campus
 
 |---|---|
----------
 |Date|11th September 2019 (Wednesday)|
 |Time|10am - 3 pm|
 |Venue|Niels Henrik Abels hus, room 209|
@@ -45,7 +44,6 @@ We will work with text files only.
 
 <!-- ## October Workshop @ Blindern Campus
 |---|---|
----------
 |Date|11th September 2019 (Wednesday)|
 |Time|10am - 3 pm|
 |Venue|Niels Henrik Abels hus, room 209|
