@@ -33,5 +33,22 @@ We will work with text files only.
 
 **Where do I register for the workshop?**
 
-Sign up [here]()
+## September Workshop @ Blindern Campus
+
+|---|---|
+---------
+|Date|11th September 2019 (Wednesday)|
+|Time|10am - 3 pm|
+|Venue|Niels Henrik Abels hus, room 209|
+|Address|Moltke Moes vei 39, 0851 Oslo|
+|Register|Sign up [here]()|
+
+<!-- ## October Workshop @ Blindern Campus
+|---|---|
+---------
+|Date|11th September 2019 (Wednesday)|
+|Time|10am - 3 pm|
+|Venue|Niels Henrik Abels hus, room 209|
+|Address|Moltke Moes vei 39, 0851 Oslo|
+|Register|Sign up [here]()| -->
 
