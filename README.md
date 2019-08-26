@@ -16,14 +16,17 @@ You are welcome to contribute! This call goes out especially to the participants
 
 |Date|Place|Institution|Language|
 |---|---|---|---|
-|2019-01-18|Oslo|The National Library of Norway|Norwegian|
-|2019-03-25|Mainz|DHd2019 International Conference|German|
-|2019-04-10|Oslo|University of Oslo|English|
+|2019-10-09|Oslo|University of Oslo|English|
+|2019-09-11|Oslo|University of Oslo|English|
+
 
 ### Past
 
 |Date|Place|Institution|Language|
 |---|---|---|---|
+~~|2019-04-10|Oslo|University of Oslo|English|~~
+~~|2019-03-25|Mainz|DHd2019 International Conference|German|~~
+|2019-01-18|Oslo|The National Library of Norway|Norwegian|
 |2018-12-12|Oslo|The National Library of Norway|Norwegian|
 |2018-11-01|Trondheim|NTNU Gunnerus Library|English|
 |2017-12-08|Oslo|University of Oslo|English|
