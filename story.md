@@ -28,11 +28,33 @@ The project is in its early stage: The members collect all kinds of historical r
 
 >**Æggerøre**
 
->12 Æg med Hvider slaaes, deri kommes 6 Skeer sød Fløde, og lidt fiinhakket Græsløg. En Skee Smør kommes i Bunden af en lille Gryde, og > Æggene heldes i; den sættes paa svage Gløder, og fra det begynder at blive varmt, maa man bestandig skrabe det, der lægger sig ved > > > Bunden, fra med en Træskee. Naar man finder den passende fast, øses den op; den taaler ikke at blive staaende i Gryden. Man pleier at > regne 2 Æg til hver Person.
+>12 Æg med Hvider slaaes, deri kommes 6 Skeer sød Fløde, og lidt fiinhakket Græsløg. En Skee Smør kommes i Bunden af en lille Gryde, og Æggene heldes i; den sættes paa svage Gløder, og fra det begynder at blive varmt, maa man bestandig skrabe det, der lægger sig ved Bunden, fra med en Træskee. Naar man finder den passende fast, øses den op; den taaler ikke at blive staaende i Gryden. Man pleier at regne 2 Æg til hver Person.
 
 ### Translation into modern English
 
 **Scrambled Eggs**
+
+* Scramble 12 eggs (with the eggwhite) and whisk in 6 tablespoons of sweet cream and a bit of minced chives.
+* Melt a tablespoon of butter in a small skillet and pour the eggs in
+* Put on medium low heat
+* When the eggs starts to stick to the skillet, scrape it loose with a wooden spoon
+* Repeat until the desired consistency is reached
+* Serve immediatly
+* Use 2 eggs per person
+
+### Text for the Ingredients.txt file
+
+Ingredients:
+
+* 12 eggs
+* 6 tbsp sweet cream
+* 1 tbsp butter
+* a bunch of chives
+
+* skillet
+* wooden spoon
+
+### Text for the Instructions.txt file
 
 * Scramble 12 eggs (with the eggwhite) and whisk in 6 tablespoons of sweet cream and a bit of minced chives.
 * Melt a tablespoon of butter in a small skillet and pour the eggs in
