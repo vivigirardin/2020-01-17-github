@@ -1,4 +1,8 @@
-# Writing and Coding Together on the Web Using GitHub
+|---|---|
+|Instructors|Annika Rockenberger, Anne Fouilloux|
+|Helpers|Eve Zeyl Fiskebeck, Margrethe Bue|
+
+# Workshop: Writing and Coding Together on the Web Using GitHub
 
 **About the Workshop**
 
@@ -37,7 +41,6 @@ Sign up [here](https://nettskjema.uio.no/a/122784) for the workshop on 11th Sept
 
 ## September Workshop @ Blindern Campus
 
-|||
 |---|---|
 |Date|11th September 2019 (Wednesday)|
 |Time|10am - 3pm|
