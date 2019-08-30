@@ -43,6 +43,10 @@ Sign up [here](https://nettskjema.uio.no/a/122784) for the workshop on 11th Sept
 |Time|10am - 3pm|
 |Venue|Niels Henrik Abels hus, room 209|
 |Address|Moltke Moes vei 39, 0851 Oslo|
+|Instructor|Annika Rockenberger|
+|Instructor|Anne Fouilloux|
+|Helper|Eve Zeyl Fiskebeck|
+|Helper|Margrethe Bue|
 |Register|Sign up [here](https://nettskjema.uio.no/a/122784)|
 
 <!-- ## October Workshop @ Blindern Campus
