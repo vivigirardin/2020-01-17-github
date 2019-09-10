@@ -1,7 +1,7 @@
-Writing and publishing on the web together using Github
+Writing and Publishing on the Web Together Using Github
 ========================
 
-You may be familiar with GitHub as a source of software, scripts, and programs. But, did you know that:
+You may be familiar with GitHub as a plattform for software and code. But, did you know that:
 
 * GitHub can also be used to work on text documents?
 * GitHub enables collaboration on documents and software entirely through the web interface?
@@ -10,45 +10,62 @@ You may be familiar with GitHub as a source of software, scripts, and programs. 
 
 Also:
 
-* Many researchers and developers in Digital Humanities put their code and projects on GitHub – or its sister GitLab. Currently, there are >220 [repositories](https://github.com/topics/digital-humanities) listed under the topic digital-humanities.
+* Many researchers and developers in many different disciplines put their code and projects on GitHub – or its sister GitLab.
 * You can find many useful – or just fun – projects here; e.g. for creating your personal website without having the hassle of finding a webhosting service and for no hosting cost [academicpages](https://github.com/academicpages/academicpages.github.io), or for making interactive presentations [reveal.js](https://github.com/hakimel/reveal.js/).
-* You can also use GitHub for managing your projects!
+* You can also use GitHub for collaborating with your team and managing your projects!
 
-This course will teach you how to do these things, and more. The course is aimed at researchers and tailored towards those with very little to no experience in the subjects taught. Experience with git or GitHub or similar programs/services is not necessary, but it doesn’t hurt either.
-
-NB time permitting, at the end the workshop, those interested can learn how to do the same operations using command line `git`.
+This workshop will teach you how to do these things, and more. The workshop is aimed at researchers and tailored towards those with very little to no experience in the subjects taught. Experience with git or GitHub or similar programs/services is not necessary, but it doesn’t hurt either.
 
 -------------
 
-## Set up a repository
+## Introduction
 
-* get GitHub account
-* make repository called "Guacamole recipe" 
-* IMPORTANT! In the same step, add a 'README.md' file
-	* explain commit, commit message
+* What is GitHub?
+* What is in it for Me?
 
-## Add more files
+## Sign up and Setup
 
-* Add `ingredients.txt` file with "avocado", commit
-	* show commit message etc
-* Add lime, small tomato, white onion, commit
+* create a GitHub account
+  * chose right setup
+  * make an informed descision about which email address to use
+  * make an informed decision about what information you want to share with GitHub
+* create a repository called "historical-recipes" 
+* IMPORTANT:
+  * Before clicking the "Create Repository" button, add a 'README.md' file
+  * Address licenses - why they are important & useful (show https://choosealicense.com/)
+* Tailor info about Open Science to local / national rules
+  * [University of Oslo guidelines for research data and research software](https://www.uio.no/english/for-employees/support/research/research-data-management/)
+
+## Backdrop
+
+* Historical Recipes project (see [here](https://github.com/arockenberger/github_collab_workshop/blob/master/story.md))
+
+## Add Files to a Repo
+
+* Create a file called `ingredients.txt`
+  * add one ingredient "eggs"
+  * explain commit action
+    * show a good commit message
+    * add description; commit
+* Edit `ingredients.txt` by adding butter, cream, chives; commit
 	* Show diff
-* Remove small tomato, commit
+* Edit `ingredients.txt` by removing cream; commit
 	* Show diff
-* Add `instructions.txt` with
-	* Chop avocados
-	* Chop onion
-	* Squeeze lime
-	* Add salt
+* Create a file called `instructions.txt` and add:
+	* scramble eggs
+	* mince chives
+	* melt butter
+	* whisk in cream; commit
 
 ## Collaborate directly
 
-* Divide into pairs 
-	* \#1 repo will be used
-	* \#2 close the window with their repo
-	* \#1 add #2 as collaborator
-	* \#2 checks email and accepts invitation
-	
+* Divide into groups of four
+  * "project lead" \#1 gets yellow sticky note
+  * \#1 repo will be used
+  * \#2, \#3, \#4 close the window with their repo
+  * \#1 add #2 as collaborator
+  * \#2 checks email and accepts invitation
+	<!-- stopped editing here due to time; continue from here! -->
 * \#2 make a change to repo
 	* add `and mix well` to `instructions.txt`
 	* \#1 add comment to commit

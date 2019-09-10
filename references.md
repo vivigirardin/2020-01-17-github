@@ -10,4 +10,11 @@
 
 [The ProGit Book, 2nd edition](https://git-scm.com/book/en/v2)
 
+----
+
+[The Plant List](http://www.theplantlist.org/)
+[Entry of Allium schoenoprasum i.e. chives in the International Plant Name Index](https://www.ipni.org/n/528823-1)
+[International Plant Name Index](https://www.ipni.org/)
+
+
 
