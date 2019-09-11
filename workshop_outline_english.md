@@ -27,9 +27,9 @@ This workshop will teach you how to do these things, and more. The workshop is a
 
 * create a GitHub account
   * chose right setup
-  * make an informed descision about which email address to use
+  * make an informed decision about which email address to use
   * make an informed decision about what information you want to share with GitHub
-* create a repository called "historical-recipes" 
+* create a repository called "historical-recipes"
 * IMPORTANT:
   * Before clicking the "Create Repository" button, add a 'README.md' file
   * Address licenses - why they are important & useful (show https://choosealicense.com/)
@@ -59,53 +59,60 @@ This workshop will teach you how to do these things, and more. The workshop is a
 
 ## Collaborate directly
 
+### Group-work Setup
 * Divide into groups of four
   * "project lead" \#1 gets yellow sticky note
   * \#1 repo will be used
   * \#2, \#3, \#4 close the window with their repo
-  * \#1 add #2 as collaborator
-  * \#2 checks email and accepts invitation
-	<!-- stopped editing here due to time; continue from here! -->
-* \#2 make a change to repo
-	* add `and mix well` to `instructions.txt`
-	* \#1 add comment to commit
+  * \#1 add \#2, \#3, \#4 as collaborators
+    * navigate to 'Settings' tab,
+    * click 'Collaborators' in left panel
+    * use GitHub username without @
+  * \#2, \#3, \#4 check their email and accept invitation
+
+### Making Changes to Repository  
+* \#2 makes a change to repository
+	* add *heat skillet to medium-low* to `instructions.txt`; ```commit```
+  * \#1 click on commit message
+	* \#1 add comment to commit (scroll down)
 	* \#2 respond to comment
-	
+
 * \#1 convert `ingredients.txt` to `ingredients.md`
 	* quick intro markdown
+  * google "markdown cheat sheet"
 	* convert into markdown list
 	* add `* salt`
 	* look at rendered version
-	
-* explain issues and pull request principles
 
-* \#1 submit an issue
+### Explain Issues and Pull Request Principles
+
+* \#4 submit an issue
 	* "We need to convert `instructions.txt` to `instructions.md`"
-	* \#2 check email
-	
-* \#2 submit an unrelated issue
-	* "Add 'lime' as ingredient"
 	* \#1 check email
-	
-* \#2 prepare a pull request to address issue #1
+
+* \#3 submit an unrelated issue
+	* "Change "chives" to "Allium schoenoprasum" as ingredient"
+	* \#1 check notifications
+
+* \#4 prepare a pull request to address issue #1
 	* make branch
 	* make changes
 	* commit to new branch
 	* submit pull request
-	* add link to issue in PR
-	* \#1 check email
-	
-* \#2 prepare a pull request to address issue #2
+	* add link to issue in pull-request
+	* \#1 check email / notifications
+
+* \#3 prepare a pull request to address issue #2
 	* this time, do not start from a new branch
 	* instead, commit to new branch when finished
 	* also include a typo in the change (!)
-	
-* \#1 add comment to PR, 'fix typo!'
-	* \#2 check email
-	
-* \#2 fix typo, thus adding a commit to the PR
 
-* \#1 merge PR
+* \#1 add comment to pull request, 'fix typo!'
+	* \#3 check email / notifications
+
+* \#3 fix typo, thus adding a commit to the pull-request
+
+* \#1 merge pull-request
 
 * Exercise: do another cycle of an issue by one, and a PR by the other, include comments and merge PR
 
@@ -114,13 +121,13 @@ This workshop will teach you how to do these things, and more. The workshop is a
 * \#2 create branch with change
 	* call branch collab
 	* wait with the PR
-	
+
 * \#1 commit change on same line in same file in master (!) branch
 
 * \#2 submit PR --> conflict
 	* \#1 & \#2 communicate through 'code review'
 	* \#1 resolve
-	
+
 * \#1 merge PR
 
 ## Collaborate by 'suggesting' changes
@@ -138,11 +145,11 @@ This workshop will teach you how to do these things, and more. The workshop is a
 * Exercise: in pairs
 	* add issues to the other person's biography file
 	* and/or add PR, comments to PR, fixes etc
-	* discuss through github
+	* discuss through Github
 	* add 'OK to merge' when ready
 * instructor merges
 	* merge PRs and close issues
-* update your fork with the cages from the repo you forked from
+* update your fork with the changes from the repo you forked from
 	* in the fork, click the 'compare' button (right)
 	* switch the base
 	* check changes
@@ -157,9 +164,9 @@ This workshop will teach you how to do these things, and more. The workshop is a
 
 ## Building a simple website using GitHub
 
-* back to Guacamole repo
+* back to Historical Recipes repo
 * add `index.md` with a few lines of text
-* on the 'Settings' tab of the github repo, enable find "Select a source below to enable GitHub Pages for this repository" and select 'master branch' from the pulldown
+* on the 'Settings' tab of the Github repo, enable find "Select a source below to enable GitHub Pages for this repository" and select 'master branch' from the pulldown
 * find your webpage
 * in `index.md`, add (markdown) links to `ingredients` and `instructions`
 * Exercise: customise your recipe website
@@ -170,7 +177,6 @@ This workshop will teach you how to do these things, and more. The workshop is a
 
 ## Example of the final result
 
-<https://arockenberger.github.io/guacamole_oppskrift/>
 
 
 ------
