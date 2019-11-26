@@ -1,7 +1,7 @@
-|||
+|Role|Who|
 |---|---|
-|Instructors|Annika Rockenberger, Anne Fouilloux|
-|Helpers|Eve Zeyl Fiskebeck, Margrethe Bue|
+|Instructors|Annika Rockenberger, Désirée Treichler|
+|Helpers|Viviane Girardin, N.N.|
 
 # Workshop: Writing and Coding Together on the Web Using GitHub
 
@@ -38,28 +38,19 @@ We will work with text files only.
 
 **Where do I register for the workshop?**
 
-Sign up [here](https://nettskjema.uio.no/a/122784) for the workshop on 11th September
+Sign up [here]() for the workshop on 17th January 2020
 
-## September Workshop @ Blindern Campus
+## Workshop @ Blindern Campus
 
 |||
 |---|---|
-|Date|11th September 2019 (Wednesday)|
-|Time|10am - 3pm|
-|Venue|Niels Henrik Abels hus, room 209|
+|Date|17th January 2020 (Friday)|
+|Time|12am - 4pm|
+|Venue|Vilhelm Bjerknes hus, room 123|
 |Address|Moltke Moes vei 39, 0851 Oslo|
 |Instructor|Annika Rockenberger|
-|Instructor|Anne Fouilloux|
-|Helper|Eve Zeyl Fiskebeck|
-|Helper|Margrethe Bue|
-|Register|Sign up [here](https://nettskjema.uio.no/a/122784)|
-
-<!-- ## October Workshop @ Blindern Campus
-|||
-|---|---|
-|Date|11th September 2019 (Wednesday)|
-|Time|10am - 3 pm|
-|Venue|Niels Henrik Abels hus, room 209|
-|Address|Moltke Moes vei 39, 0851 Oslo|
-|Register|Sign up [here]()| -->
+|Instructor|Désirée Treichler|
+|Helper|Viviane Girardin|
+|Helper|N.N.|
+|Register|Sign up [here]()|
 
