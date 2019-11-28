@@ -1,7 +1,7 @@
 |Role|Who|
 |---|---|
 |Instructors|Annika Rockenberger, Désirée Treichler|
-|Helpers|Viviane Girardin, N.N.|
+|Helpers|Viviane Girardin, Eszter Agnes Papp|
 
 # Workshop: Writing and Coding Together on the Web Using GitHub
 
