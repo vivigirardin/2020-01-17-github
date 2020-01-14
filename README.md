@@ -16,6 +16,7 @@ You are welcome to contribute! This call goes out especially to the participants
 
 |Date|Place|Institution|Language|
 |---|---|---|---|
+|2020-01-17|Oslo|University of Oslo|English|
 |2019-10-09|Oslo|University of Oslo|English|
 |2019-09-11|Oslo|University of Oslo|English|
 
