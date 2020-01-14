@@ -22,7 +22,7 @@ want your work to be shared openly, this workshop is for you!
 
 You will learn how to set up a profile on GitHub, how to create a repository and add files to it.
 You will learn about licenses and which ones apply best to your projects.
-You will learn about version controll, how to work together in a shared folder, and how to manage and 
+You will learn about version control, how to work together in a shared folder, and how to manage and 
 review changes in files.
 You will learn how to collaborate online with colleagues - and strangers.
 You will learn how to create a simple website for your project.
@@ -45,12 +45,12 @@ Sign up [here]() for the workshop on 17th January 2020
 |||
 |---|---|
 |Date|17th January 2020 (Friday)|
-|Time|12am - 4pm|
-|Venue|Vilhelm Bjerknes hus, room 123|
+|Time|12pm - 4pm|
+|Venue|Vilhelm Bjerknes' hus, room 123|
 |Address|Moltke Moes vei 39, 0851 Oslo|
 |Instructor|Annika Rockenberger|
 |Instructor|Désirée Treichler|
 |Helper|Viviane Girardin|
-|Helper|N.N.|
+|Helper|Eszter Agnes Papp|
 |Register|Sign up [here]()|
 
