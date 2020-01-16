@@ -52,5 +52,4 @@ Sign up [here]() for the workshop on 17th January 2020
 |Instructor|Désirée Treichler|
 |Helper|Viviane Girardin|
 |Helper|Eszter Agnes Papp|
-|Register|Sign up [here]()|
 
