@@ -6,7 +6,7 @@ Material originally developed by [@lexnederbragt](https://github.com/lexnederbra
 
 I have taught this workshop a couple of times now and it has become clear what works well and what could be improved. It is still – and will be for some time – a work in progress.
 
-For now, all that is here is an [outline of the workshop](workshop_outline.md). Both Lex and I have the ambition to develop this lesson into a fullblown one, with screenshots etc.
+For now, all that is here is an [outline of the workshop](workshop_outline_english.md). Both Lex and I have the ambition to develop this lesson into a fullblown one, with screenshots etc.
 
 You are welcome to contribute! This call goes out especially to the participants of my workshops – contributing to repositories on GitHub helps you stay 'on track' and getting comfortable working on GitHub. It's fun, too! :)
 
@@ -17,14 +17,14 @@ You are welcome to contribute! This call goes out especially to the participants
 |Date|Place|Institution|Language|
 |---|---|---|---|
 |2020-01-17|Oslo|University of Oslo|English|
-|2019-10-09|Oslo|University of Oslo|English|
-|2019-09-11|Oslo|University of Oslo|English|
 
 
 ### Past
 
 |Date|Place|Institution|Language|
 |---|---|---|---|
+|2019-10-09|Oslo|University of Oslo|English|
+|2019-09-11|Oslo|University of Oslo|English|
 |~~2019-04-10~~|~~Oslo~~|~~University of Oslo~~|~~English~~|
 |~~2019-03-25~~|~~Mainz~~|~~DHd2019 International Conference~~|~~German~~|
 |2019-01-18|Oslo|The National Library of Norway|Norwegian|
